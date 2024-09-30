@@ -1,5 +1,37 @@
 local crash_site_parts = {
     {
+        name = "crash-site-assembling-machine-1-repaired",
+        angle_deviation = 0.3,
+        max_distance = 20,
+        min_separation = 5,
+        fire_count = 1,
+        force = "player",
+    },
+    {
+        name = "crash-site-assembling-machine-2-repaired",
+        angle_deviation = 0.3,
+        max_distance = 20,
+        min_separation = 5,
+        fire_count = 1,
+        force = "player",
+    },
+    {
+        name = "crash-site-chest-1",
+        angle_deviation = 0.1,
+        max_distance = 20,
+        min_separation = 3,
+        fire_count = 1,
+        force = "player",
+    },
+    {
+        name = "crash-site-chest-2",
+        angle_deviation = 0.1,
+        max_distance = 20,
+        min_separation = 2,
+        fire_count = 1,
+        force = "player",
+    },
+    {
         name = "crash-site-generator",
         angle_deviation = 0.2,
         max_distance = 25,
@@ -9,7 +41,7 @@ local crash_site_parts = {
         force = "player",
     },
     {
-        name = "crash-site-lab",
+        name = "crash-site-lab-repaired",
         angle_deviation = 0.05,
         max_distance = 30,
         min_separation = 10,
@@ -17,38 +49,6 @@ local crash_site_parts = {
         explosion_count = 1,
         force = "player",
     },
-    {
-        name = "crash-site-assembling-machine-1",
-        angle_deviation = 0.3,
-        max_distance = 20,
-        min_separation = 5,
-        fire_count = 1,
-        force = "player",
-    },
-    {
-        name = "crash-site-assembling-machine-2",
-        angle_deviation = 0.3,
-        max_distance = 20,
-        min_separation = 5,
-        fire_count = 1,
-        force = "player",
-    },
-    -- {
-    --     name = "crash-site-chest-1",
-    --     repeat_count = 3,
-    --     angle_deviation = 0.1,
-    --     max_distance = 20,
-    --     min_separation = 3,
-    --     fire_count = 1,
-    -- },
-    -- {
-    --     name = "crash-site-chest-2",
-    --     repeat_count = 3,
-    --     angle_deviation = 0.1,
-    --     max_distance = 20,
-    --     min_separation = 2,
-    --     fire_count = 1,
-    -- },
 }
 
 local function init()

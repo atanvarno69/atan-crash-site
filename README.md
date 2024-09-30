@@ -16,12 +16,12 @@ None of these can use modules.
 
 When deconstructed they provide a small amount of useful basic items.
 
-Entities are added to a new Freeplay game; does nothing if added to an existing save.
+Entities are added to a *new* Freeplay game; does nothing if added to an existing save.
 
 ## Alternatives
 
 [Krastorio 2](https://mods.factorio.com/mod/Krastorio2) and other overhauls also start with these buildings on the map.
 
-[Factorio crash site (and legacy items)](https://mods.factorio.com/mod/factorio-crash-site) makes these building available to modders, but does not add them into the game.
+[Factorio crash site (and legacy items)](https://mods.factorio.com/mod/factorio-crash-site) (a dependency of this mod) makes these building available to modders, but does not add them into the game.
 
 If you just want the crash site buildings without a full overhaul, this mod is for you.
