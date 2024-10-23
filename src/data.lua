@@ -7,7 +7,7 @@ data:extend({
     },
 })
 
-local flags = { "placeable-player", "player-creation", "hidden", "not-rotatable" }
+local flags = { "placeable-player", "player-creation", "not-blueprintable", "not-rotatable", "not-upgradable" }
 local mineable = {
     mining_time = 4,
     results = {
@@ -50,3 +50,11 @@ data.raw["electric-energy-interface"]["crash-site-generator"].localised_descript
     { "entity-description.crash-site-building" },
 }
 data.raw["electric-energy-interface"]["crash-site-generator"].minable = mineable
+
+if not mods["space-age"] then
+    data.raw["ammo"]["railgun-dart"] = nil
+    data.raw["gun"]["railgun"] = nil
+    data.raw["ammo-category"]["railgun"] = nil
+    data.raw["explosion"]["railgun-beam"] = nil
+    data.raw["recipe"]["railgun"] = nil
+end
