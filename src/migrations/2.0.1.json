@@ -1,0 +1,30 @@
+{
+    "entity": [
+        [
+            "crash-site-assembling-machine-1-repaired",
+            "crash-site-assembling-machine-1"
+        ],
+        [
+            "crash-site-assembling-machine-2-repaired",
+            "crash-site-assembling-machine-2"
+        ],
+        [
+            "crash-site-lab-repaired",
+            "crash-site-lab"
+        ]
+    ],
+    "item": [
+        [
+            "crash-site-assembling-machine-1-repaired",
+            "crash-site-assembling-machine-1"
+        ],
+        [
+            "crash-site-assembling-machine-2-repaired",
+            "crash-site-assembling-machine-2"
+        ],
+        [
+            "crash-site-lab-repaired",
+            "crash-site-lab"
+        ]
+    ]
+}

@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 2024-11-02
+  Changes:
+    - Crash site containers give iron plates when deconstructed.
+  Bugfixes:
+    - Allow crash site container 2 to be deconstructed.
+  Optimizations:
+    - Restructure and improve code.
+---------------------------------------------------------------------------------------------------
 Version: 2.0.0
 Date: 2024-10-23
   Changes:

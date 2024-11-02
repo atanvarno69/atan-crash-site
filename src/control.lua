@@ -1,6 +1,6 @@
 local crash_site_parts = {
     {
-        name = "crash-site-assembling-machine-1-repaired",
+        name = "crash-site-assembling-machine-1",
         angle_deviation = 0.3,
         max_distance = 20,
         min_separation = 5,
@@ -8,7 +8,7 @@ local crash_site_parts = {
         force = "player",
     },
     {
-        name = "crash-site-assembling-machine-2-repaired",
+        name = "crash-site-assembling-machine-2",
         angle_deviation = 0.3,
         max_distance = 20,
         min_separation = 5,
@@ -41,7 +41,7 @@ local crash_site_parts = {
         force = "player",
     },
     {
-        name = "crash-site-lab-repaired",
+        name = "crash-site-lab",
         angle_deviation = 0.05,
         max_distance = 30,
         min_separation = 10,
