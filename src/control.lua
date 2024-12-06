@@ -32,7 +32,7 @@ local crash_site_parts = {
         force = "player",
     },
     {
-        name = "crash-site-generator",
+        name = "crash-site-energy-interface",
         angle_deviation = 0.2,
         max_distance = 25,
         min_separation = 10,

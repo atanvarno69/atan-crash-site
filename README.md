@@ -18,6 +18,8 @@ When deconstructed they provide a small amount of useful basic items.
 
 Entities are added to a *new* Freeplay game; does nothing if added to an existing save.
 
+Tested and works with [Any Planet Start](https://mods.factorio.com/mod/any-planet-start).
+
 ## Alternatives
 
 [Krastorio 2](https://mods.factorio.com/mod/Krastorio2) and other overhauls also start with these buildings on the map.

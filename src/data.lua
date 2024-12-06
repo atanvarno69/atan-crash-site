@@ -1,7 +1,6 @@
 require("prototype.assembling_machines")
-require("prototype.compatability")
+require("prototype.compatibility")
 require("prototype.containers")
-require("prototype.electric_pole")
 require("prototype.generator")
 require("prototype.icon")
 require("prototype.items")

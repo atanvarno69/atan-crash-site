@@ -10,7 +10,4 @@ lab.localised_description = {
 lab.minable = common.mineable
 lab.researching_speed = 0.75
 
-data.raw["lab"]["crash-site-lab-repaired"] = nil
-data.raw["simple-entity"]["crash-site-lab-broken"] = nil
-
 data:extend({ lab })

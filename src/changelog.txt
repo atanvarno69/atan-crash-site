@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 2024-11-25
+  Bugfixes:
+    - Fix typo in building description.
+  Changes:
+    - Make unused entity, crash-site-electric-pole, hidden.
+  Compatibility:
+    - [any-planet-start] Comfirm compatibility.
+  Modding:
+    - Do not delete original [factorio-crash-site] prototypes so they remain available for other mods.
+---------------------------------------------------------------------------------------------------
 Version: 2.0.1
 Date: 2024-11-02
   Changes:

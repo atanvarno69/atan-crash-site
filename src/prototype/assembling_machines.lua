@@ -17,9 +17,4 @@ end
 assembler_1.name = "crash-site-assembling-machine-1"
 assembler_2.name = "crash-site-assembling-machine-2"
 
-data.raw["assembling-machine"]["crash-site-assembling-machine-1-repaired"] = nil
-data.raw["assembling-machine"]["crash-site-assembling-machine-2-repaired"] = nil
-data.raw["simple-entity"]["crash-site-assembling-machine-1-broken"] = nil
-data.raw["simple-entity"]["crash-site-assembling-machine-2-broken"] = nil
-
 data:extend({ assembler_1, assembler_2 })

@@ -9,16 +9,7 @@ assembler_2.name = "crash-site-assembling-machine-2"
 assembler_2.place_result = "crash-site-assembling-machine-2"
 lab.name = "crash-site-lab"
 lab.place_result = "crash-site-lab"
-
-data.raw["item"]["computer"] = nil
-data.raw["item"]["small-plane"] = nil
-data.raw["item"]["crash-site-assembling-machine-1-broken"] = nil
-data.raw["item"]["crash-site-assembling-machine-1-repaired"] = nil
-data.raw["item"]["crash-site-assembling-machine-2-broken"] = nil
-data.raw["item"]["crash-site-assembling-machine-2-repaired"] = nil
-data.raw["item"]["crash-site-electric-pole"] = nil
-data.raw["item"]["crash-site-generator"] = nil
-data.raw["item"]["crash-site-lab-broken"] = nil
-data.raw["item"]["crash-site-lab-repaired"] = nil
+generator.name = "crash-site-energy-interface"
+generator.place_result = "crash-site-energy-interface"
 
 data:extend({ assembler_1, assembler_2, lab, generator })
