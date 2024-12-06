@@ -7,7 +7,7 @@ lab.localised_description = {
     "entity-description.crash-site-lab",
     { "entity-description.crash-site-building" },
 }
-lab.minable = common.mineable
+lab.minable = common.minable
 lab.researching_speed = 0.75
 
 data:extend({ lab })

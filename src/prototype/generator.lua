@@ -10,6 +10,6 @@ generator.localised_description = {
     "entity-description.crash-site-place_result",
     { "entity-description.crash-site-building" },
 }
-generator.minable = common.mineable
+generator.minable = common.minable
 
 data:extend({ generator })

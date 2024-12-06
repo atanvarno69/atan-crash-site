@@ -12,7 +12,7 @@ for _, assembler in pairs({ assembler_1, assembler_2 }) do
         { "entity-description.crash-site-building" },
     }
     assembler.localised_name = { "entity-name.crash-site-assembling-machine" }
-    assembler.minable = common.mineable
+    assembler.minable = common.minable
 end
 assembler_1.name = "crash-site-assembling-machine-1"
 assembler_2.name = "crash-site-assembling-machine-2"
