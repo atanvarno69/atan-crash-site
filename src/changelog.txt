@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2025-01-02
+  Changes:
+    - Add setting to provide 10 small electric poles with the crash site.
+    - Change Shipwreck electric generator usage priority to primary-output.
+---------------------------------------------------------------------------------------------------
 Version: 2.0.4
 Date: 2024-12-11
   Info:

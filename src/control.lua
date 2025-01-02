@@ -58,6 +58,11 @@ local function init()
         and not remote.call("freeplay", "get_disable_crashsite")
         and not remote.call("freeplay", "get_init_ran")
     then
+        if settings.global["atan-crash-site-poles"].value == true then
+            local debris_items = remote.call("freeplay", "get_debris_items")
+            debris_items["small-electric-pole"] = 10
+            remote.call("freeplay", "set_debris_items", debris_items)
+        end
         local ship_parts = remote.call("freeplay", "get_ship_parts")
         for _, part in pairs(crash_site_parts) do
             ship_parts[#ship_parts + 1] = part
