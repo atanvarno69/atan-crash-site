@@ -20,6 +20,8 @@ Entities are added to a *new* Freeplay game; does nothing if added to an existin
 
 Tested and works with [Any Planet Start](https://mods.factorio.com/mod/any-planet-start).
 
+[Crash Site Settings](https://mods.factorio.com/mod/kry-crash-site-settings) provides additional options.
+
 ## Alternatives
 
 [Krastorio 2](https://mods.factorio.com/mod/Krastorio2) and other overhauls also start with these buildings on the map.
