@@ -10,6 +10,7 @@ M.minable = {
         { type = "item", name = "electronic-circuit", amount_min = 1, amount_max = 5, probability = 0.75 },
     },
     mining_particle = "shell-particle",
+    transfer_entity_health_to_products = false,
 }
 
 return M
