@@ -29,3 +29,7 @@ Tested and works with [Any Planet Start](https://mods.factorio.com/mod/any-plane
 [Factorio crash site (and legacy items)](https://mods.factorio.com/mod/factorio-crash-site) (a dependency of this mod) makes these building available to modders, but does not add them into the game.
 
 If you just want the crash site buildings without a full overhaul, this mod is for you.
+
+## Credits
+
+Russian translation provided by [Artemiy](https://github.com/Teppy381).
